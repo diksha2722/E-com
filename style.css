@@ -68,7 +68,7 @@ body {
     margin: 0;
   }
   header{
-    height:20px;
+    height:8vh;
    
   }
   header{
@@ -1615,9 +1615,9 @@ body {
     .text-wrap{
       height:300px;
       width:80%;
-     margin:auto;
+      margin:auto;
       text-align: center;
-      padding-top: 45px;
+      padding-top: 10px;
       
     }
   
